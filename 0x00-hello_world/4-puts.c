@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main -desplaying
+ * main - desplaying
  *
- * Return:Always 0 (passed)
+ * Return: Always 0
  */
+
 int main (void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
