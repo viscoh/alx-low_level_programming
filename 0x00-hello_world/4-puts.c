@@ -3,7 +3,7 @@
 /**
  * main -desplaying
  *
- * Return:Always 0(passed)
+ * Return:Always 0 (passed)
  */
 int main (void)
 {
