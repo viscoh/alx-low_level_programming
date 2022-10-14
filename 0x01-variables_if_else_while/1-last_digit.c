@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - Print random number to variable
  * Return: Always
