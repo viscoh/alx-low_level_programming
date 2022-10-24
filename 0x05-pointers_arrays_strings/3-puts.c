@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _puts - prints an entire string.
  * @str: tested string
